@@ -1,0 +1,103 @@
+[
+  {
+    "nodes" : [
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{302, 134}, {181, 66}}",
+        "class" : "Label",
+        "attributes" : {
+          "name" : "school_name_label",
+          "frame" : "{{437, 368}, {150, 32}}",
+          "uuid" : "1DE568AA-5E09-42BA-8441-DB4B7E0EDE30",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "",
+          "font_size" : 18,
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{329, 241}, {154, 61}}",
+        "class" : "Label",
+        "attributes" : {
+          "name" : "mascot_label",
+          "frame" : "{{437, 368}, {150, 32}}",
+          "uuid" : "B36356F2-8DB6-4F53-988D-2FE36C09DE2A",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "",
+          "font_size" : 18,
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{147, 141}, {114, 47}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "mother_teresa_touch_up_inside",
+          "frame" : "{{472, 368}, {80, 32}}",
+          "title" : "Mother Teresa",
+          "uuid" : "E03267F6-234D-4D98-AD3A-775132C9B1BE",
+          "class" : "Button",
+          "name" : "Mother Teresa",
+          "font_size" : 15
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{154, 217}, {107, 32}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "st_joe_touch_up_inside",
+          "frame" : "{{472, 368}, {80, 32}}",
+          "title" : "St. Joes",
+          "uuid" : "2209E9CB-391C-4125-A5F8-3F3D8DA9B8A5",
+          "class" : "Button",
+          "name" : "st joes",
+          "font_size" : 15
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{119, 279}, {142, 32}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "st_mark_touch_up_inside",
+          "frame" : "{{472, 368}, {80, 32}}",
+          "title" : "St. Mark",
+          "uuid" : "09BD80C5-ADEF-4AE8-BB71-E5B3248D11E3",
+          "class" : "Button",
+          "name" : "St. Marks",
+          "font_size" : 15
+        },
+        "selected" : true
+      }
+    ],
+    "frame" : "{{0, 0}, {1024, 768}}",
+    "class" : "View",
+    "attributes" : {
+      "enabled" : true,
+      "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)",
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "flex" : ""
+    },
+    "selected" : false
+  }
+]
